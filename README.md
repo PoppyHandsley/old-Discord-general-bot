@@ -15,3 +15,8 @@ Moderation commands,
 Ping command,
 Warning system that tracks via JSON,
 and so much more
+
+=========================================================================
+
+2022 Edit:
+This bot no longer works on the newest version of discord.js and will need updating to function
